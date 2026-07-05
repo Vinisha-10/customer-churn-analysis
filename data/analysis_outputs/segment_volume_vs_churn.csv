@@ -1,0 +1,26 @@
+Contract,InternetService,PaymentMethod,total_customers,churned_customers,churn_rate_percent
+Month-to-month,DSL,Bank transfer (automatic),197,39,19.796954314720814
+Month-to-month,DSL,Credit card (automatic),185,50,27.027027027027028
+Month-to-month,DSL,Electronic check,474,192,40.50632911392405
+Month-to-month,DSL,Mailed check,367,113,30.79019073569482
+Month-to-month,Fiber optic,Bank transfer (automatic),327,149,45.56574923547401
+Month-to-month,Fiber optic,Credit card (automatic),293,122,41.63822525597269
+Month-to-month,Fiber optic,Electronic check,1307,789,60.3672532517215
+Month-to-month,Fiber optic,Mailed check,201,102,50.74626865671642
+Month-to-month,No,Mailed check,325,67,20.615384615384617
+One year,DSL,Bank transfer (automatic),145,11,7.586206896551724
+One year,DSL,Credit card (automatic),172,17,9.883720930232558
+One year,DSL,Electronic check,116,11,9.482758620689655
+One year,DSL,Mailed check,137,14,10.218978102189782
+One year,Fiber optic,Bank transfer (automatic),157,23,14.64968152866242
+One year,Fiber optic,Credit card (automatic),150,23,15.333333333333332
+One year,Fiber optic,Electronic check,196,51,26.02040816326531
+One year,No,Mailed check,164,2,1.2195121951219512
+Two year,DSL,Bank transfer (automatic),224,3,1.3392857142857142
+Two year,DSL,Credit card (automatic),237,5,2.109704641350211
+Two year,DSL,Mailed check,109,0,0.0
+Two year,Fiber optic,Bank transfer (automatic),162,15,9.25925925925926
+Two year,Fiber optic,Credit card (automatic),154,6,3.896103896103896
+Two year,No,Bank transfer (automatic),178,1,0.5617977528089888
+Two year,No,Credit card (automatic),190,2,1.0526315789473684
+Two year,No,Mailed check,252,2,0.7936507936507936

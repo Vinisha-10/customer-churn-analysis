@@ -1,0 +1,6 @@
+TechSupport,OnlineSecurity,total_customers,churned_customers,churn_rate_percent,SupportSecurityGroup
+No,No,2553,1250,48.96,Tech Support: No | Online Security: No
+Yes,No,945,211,22.33,Tech Support: Yes | Online Security: No
+No,Yes,920,196,21.3,Tech Support: No | Online Security: Yes
+Yes,Yes,1099,99,9.01,Tech Support: Yes | Online Security: Yes
+No internet service,No internet service,1526,113,7.4,Tech Support: No internet service | Online Security: No internet service
